@@ -6,7 +6,7 @@ Classifies Reddit posts into mental health categories: **Depression**, **ADHD**,
 
 ## 📌 Project Overview
 
-Built on public data sourced from Hugging Face’s `reddit_mental_health_posts` dataset by `solomonk`, this project combines cleaned Reddit posts from real mental health subreddits—providing a multi-class classification framework for real-world emotional understanding.
+Built on public data sourced from Hugging Face’s `reddit_mental_health_posts` dataset by `solomonk`, this project combines cleaned Reddit posts from real mental health subreddits — providing a multi-class classification framework for real-world emotional understanding.
 
 ---
 
@@ -48,9 +48,9 @@ Built on public data sourced from Hugging Face’s `reddit_mental_health_posts` 
 
 - **Overall Accuracy**: ~X% (placeholder for your score)  
 - **Classes**:  
-  - `depression`: Precision XX%, Recall XX%  
-  - `adhd`: Precision XX%, Recall XX%  
-  - `ocd`: Precision XX%, Recall XX%  
+  - `depression`: Precision 80%, 
+  - `adhd`: Precision 86%,   
+  - `ocd`: Precision 74%, 
 - Confusion matrix highlights areas where labels are mixed
 
 ---
