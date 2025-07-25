@@ -46,7 +46,7 @@ Built on public data sourced from Hugging Face’s `reddit_mental_health_posts` 
 
 ## 📈 Results & Performance
 
-- **Overall Accuracy**: ~X% (placeholder for your score)  
+- **Overall Accuracy**: ~77% (placeholder for your score)  
 - **Classes**:  
   - `depression`: Precision 80%, 
   - `adhd`: Precision 86%,   
